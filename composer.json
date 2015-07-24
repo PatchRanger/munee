@@ -19,7 +19,7 @@
     },
     "require": {
         "php": ">=5.3.2",
-        "leafo/lessphp": "0.5.0",
+        "oyejorge/less.php": "dev-master",
         "leafo/scssphp": "0.1.1",
         "tedivm/jshrink": "1.0.1",
         "imagine/imagine": "0.6.2",
